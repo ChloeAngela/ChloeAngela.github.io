@@ -1,0 +1,64 @@
+body{
+    background-color: #FFFCF1;
+}
+.texts{
+    color: #14AE5C;
+    font-size: 30px;
+}
+.remain{
+    height: 50px;
+    width: 300px;
+    background-color:#F3FDF6 ;
+    border: 1px solid #ccc;
+    position: relative;
+    bottom: 25px;
+    left: 70px;
+    border-radius: 5px;
+}
+.addamount{
+    position: relative;
+    bottom: 50px;
+}
+.addbox{
+    height: 50px;
+    width: 300px;
+    background-color:#F3FDF6 ;
+    border: 1px solid #ccc;
+    position: relative;
+    bottom: 70px;
+    left: 70px;
+    border-radius: 5px;
+}
+.cancel{
+    background-color: #AFF4C6;
+    border: none;
+    color: white;
+    padding: 10px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+    position: relative;
+    left: 440px;
+    bottom: 110px;
+}
+.save{
+    background-color: #58E79B;
+    border: none;
+    color: white;
+    padding: 10px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+    position: relative;
+    left: 295px;
+    bottom: 160px;
+    width: 4%;
+}
