@@ -1,0 +1,78 @@
+body{
+    background-color: #FFFCF1;
+}
+.texts{
+    color: #14AE5C;
+    font-size: 30px;
+}
+.inpbox{
+    height: 50px;
+    width: 300px;
+    background-color:#F3FDF6 ;
+    border: 1px solid #ccc;
+    position: relative;
+    bottom: 25px;
+    left: 70px;
+    border-radius: 5px;
+}
+.inpname{
+    position: relative;
+    bottom: 30px;
+}
+.namebox{
+    height: 50px;
+    width: 300px;
+    background-color:#F3FDF6 ;
+    border: 1px solid #ccc;
+    position: relative;
+    bottom: 55px;
+    left: 70px;
+    border-radius: 5px;
+}
+.inpamount{
+    position: relative;
+    bottom: 70px;
+}
+.amountbox{
+    height: 50px;
+    width: 300px;
+    background-color:#F3FDF6 ;
+    border: 1px solid #ccc;
+    position: relative;
+    bottom: 95px;
+    left: 70px;
+    border-radius: 5px;
+}
+.cancel{
+    background-color: #AFF4C6;
+    border: none;
+    color: white;
+    padding: 10px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+    position: relative;
+    left: 440px;
+    bottom: 150px;
+}
+.save{
+    background-color: #58E79B;
+    border: none;
+    color: white;
+    padding: 10px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+    position: relative;
+    left: 299px;
+    bottom: 200px;
+    width: 4%;
+}
